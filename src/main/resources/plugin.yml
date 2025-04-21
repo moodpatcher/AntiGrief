@@ -1,0 +1,19 @@
+main: com.moodpatcher.AntiGrief.Main
+name: AntiGrief
+version: '1.0-1.21.5'
+description: moodpatcher's AntiGrief plugin
+load: POSTWORLD
+author: moodpatcher
+website: 
+prefix:
+depend:
+softdepend:
+loadbefore:
+commands:
+  antigrief:
+    description: Anti-grief toggle player
+    aliases: []
+    permission-message: You don’t have permission to use this command.
+    usage: /antigrief <playername>
+permissions:
+api-version: 1.13
