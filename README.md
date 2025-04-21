@@ -16,5 +16,5 @@ Blocks placed by server OPs cannot be destroyed unless this setting is changed i
 
 ## Misc:
 English and Hungarian localizations are available. Server OPs can bypass zone protection by enabling the option it in the config file. 
-You can output the zone info in the chatbox by crouch-clicking on a block with a stick in your hand.
+You can print the zone info into the chatbox by sneaking and right clicking on a block with a stick in your hand.
 Blocks are stored in the plugin folder, in data.db (SQLite) alongside with localization and the configuration file.
