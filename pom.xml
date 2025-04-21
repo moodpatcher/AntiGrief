@@ -8,7 +8,7 @@
   <artifactId>AntiGrief</artifactId>
   <packaging>jar</packaging>
   <version>1.0-1.21.5</version>
-  <name>mpplugin</name>
+  <name>AntiGrief</name>
   <url>http://maven.apache.org</url>
 
   <properties>
